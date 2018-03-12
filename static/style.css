@@ -1,0 +1,45 @@
+.center-div
+{
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  background-color: #ccc;
+  border-radius: 3px;
+}
+
+.myclass{
+  background-color: "red"
+}
+
+.topnav a:hover {
+  background-color: rgba(6, 161, 32, 0.829);
+  color: rgb(255, 255, 255);
+}
+
+.fixed {
+  position: fixed; z-index:100;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+}
+
+.myinput {
+  height: 30px;
+  font-size-adjust: inherit;
+  position: relative;
+  border: 1px solid #cdcdcd;
+  border-color: rgba(0,0,0,.14);
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 1%;
+}
+
+.mybutton {
+  height: 30px;
+  background:transparent;
+  border: none;
+}
